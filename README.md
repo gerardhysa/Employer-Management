@@ -1,4 +1,4 @@
-# EmplyoeeManagement
+# Employer Management
 In this project are integrated Php by using Laravel Framework, CSS, JavaScript, HTML by using Bootstrap and 
 for database I have used MySQL. I have also used jQuery plugins such as jsTree and Datatables, also AJAX
 is used to process the requests. This project provides registration, log in features, Datatable showing all the
